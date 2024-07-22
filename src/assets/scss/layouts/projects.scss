@@ -38,8 +38,8 @@
 }
 
 .project-card__tag {
-  background-color: var(--color-secondary);
-  color: var(--color-text-alt);
+  background-color: var(--color-bg-tag);
+  color: var(--color-text);
 
   :root[data-theme="dark"] & {
     background-color: var(--color-secondary-dark);
