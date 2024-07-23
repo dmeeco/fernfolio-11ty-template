@@ -1,7 +1,8 @@
-{% macro projectlist(projects) %}
+{% macro projectlist(projects, limit) %}
   <section>
     <div class="project-grid">
       {% for project in projects %}
+      {% if limit === undefined or loop.index0 < limit %}
         <div class="project-card" {% if project.url == url %} data-current="current item"{% endif %}>
           <h4>
             <a class="project-card__title" href="{{ project.url | url }}">
@@ -31,6 +32,7 @@
             </p>
           {% endif %}
         </div>
+        {% endif %}
       {% endfor %}
     </div>
   </section>
