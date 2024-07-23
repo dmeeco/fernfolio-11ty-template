@@ -1,5 +1,5 @@
 ---
-title: Vue Date Picker
+title: Catalysing Connections for Impact Organisations
 emoji: ▪️
 date: 2024-07-22T13:55:00.000Z
 summary: This is a Vue component I made

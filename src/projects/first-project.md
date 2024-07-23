@@ -1,5 +1,5 @@
 ---
-title: Cat Translation API
+title: Accelerating Ethical Alternatives Shopping Experience
 emoji: ▪️
 date: 2024-07-22T13:35:00.000Z
 summary: API to translate cat speech to english

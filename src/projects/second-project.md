@@ -1,5 +1,5 @@
 ---
-title: Another NPM Package
+title: Making Climate Action and Advocacy a Habit
 emoji: ▪️
 date: 2024-07-22T13:45:00.000Z
 summary: This is an NPM package I made
