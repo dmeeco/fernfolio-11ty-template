@@ -2,6 +2,15 @@
 layout: base.njk
 section: home
 ---
+
+---
+pagination:
+  data: collections.project
+  size: 3
+  reverse: true
+  alias: projects
+---
+
 <div class="home-page">
 	<!-- <div class="home-page__bg-square"></div> -->
 
@@ -30,7 +39,7 @@ section: home
     <a class="btn btn--outline btn--sm" href="/projects">View All</a>
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse | slice(0, 3)) }}
+  {{ projectlist(projects) }}
 
   {# Articles #}
   <div class="list-header">
