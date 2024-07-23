@@ -30,7 +30,7 @@ section: home
     <a class="btn btn--outline btn--sm" href="/projects">View All</a>
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
+  {{ projectlist(projects = collections.project | reverse | slice(0, 3)) }}
 
   {# Articles #}
   <div class="list-header">
