@@ -1,12 +1,12 @@
 ---
 layout: projects.njk
-title: Work
+title: Projects
 date: 2021-01-01
 permalink: /projects/index.html
 metaDescription: A sample Projects page
 subtitle: This is the page where all projects will live
 emoji: 💻
 eleventyNavigation:
-  key: Works
+  key: What I Do?
   order: 1
 ---
