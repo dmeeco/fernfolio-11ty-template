@@ -1,4 +1,4 @@
-<form class="contact-form" name="contact" method="POST" data-netlify="true">
+<form class="contact-form" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
 <input type="hidden" name="form-name" value="contact" />
   <label for="name">Name</label>
   <input
@@ -23,5 +23,6 @@
   >
   <label for="message">Message</label>
   <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
+  <div data-netlify-recaptcha="true"></div>
   <button class="contact-form__submit btn" type="submit" name="submit">Send Message</button>
 </form>
