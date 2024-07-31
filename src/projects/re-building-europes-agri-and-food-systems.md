@@ -9,9 +9,9 @@ metaDescription: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Suspendisse eu pulvinar sapien.
 tags:
   - Service Design
-  - Eco-systems
-  - Advanced Tech
+  - Eco-Systems
   - Community
+  - Advanced Tech
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent gravida euismod elementum. Maecenas imperdiet gravida leo. Sed at mi urna. In hac habitasse platea dictumst. Nulla consequat sit amet ante quis interdum. Aliquam fringilla, ex at aliquam iaculis, justo magna faucibus massa, vel fermentum urna nisi vitae nibh. Nunc eget varius odio. Mauris ligula mauris, rutrum id tristique et, facilisis quis metus.
 
