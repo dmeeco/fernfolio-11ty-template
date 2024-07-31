@@ -7,6 +7,6 @@ date: 2021-01-01
 permalink: /projects/index.html
 emoji: 💻
 eleventyNavigation:
-  key: What I Do?
+  key: What I Do
   order: 1
 ---
