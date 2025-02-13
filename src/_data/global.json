@@ -1,5 +1,5 @@
 {
-  "logo": "./src/assets/img/dk-logo.svg",
+  "logo": "/src/assets/img/dk_profile_pic_500px.png",
   "menu_icon": "src/assets/img/icon-hamburger.svg",
   "close_icon": "src/assets/img/icon-close.svg",
   "enable_theme_switch": true,
