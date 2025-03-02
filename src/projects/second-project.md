@@ -16,11 +16,13 @@ tags:
 
 EcoTrack is a mobile app designed to empower individuals and communities to take actionable steps toward climate advocacy and sustainability. Within six months of launch, EcoTrack engaged over 50,000 users, facilitating a 30% increase in local climate initiatives.
 
+-﻿--
+
 ### The Challenge
 
 As climate change awareness grows, individuals often feel overwhelmed and unsure of how to contribute to meaningful change. EcoTrack aimed to address the challenge of making climate action accessible and engaging for everyday people, transforming awareness into action.
 
-
+-﻿--
 
 ### Your Solution
 
