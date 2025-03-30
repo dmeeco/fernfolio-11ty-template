@@ -12,52 +12,27 @@ tags:
   - Strategy
   - Research
 ---
-### Brief Overview
+## **Situation**  
+*Context and background*  
 
-EcoTrack is a mobile app designed to empower individuals and communities to take actionable steps toward climate advocacy and sustainability. Within six months of launch, EcoTrack engaged over 50,000 users, facilitating a 30% increase in local climate initiatives.
+Begin by anchoring the project in its broader landscape. Clarify the client, industry, and scope, emphasizing why the work mattered. For example, *"A government agency struggling with FOIA request backlogs"* (Example 5) or *"A digital freight service needing to differentiate in a competitive SME market"* (Example 3). Use concise visuals like ecosystem maps or stakeholder diagrams to illustrate complexity.  
 
--﻿--
+## **Problem**  
+*Challenge or goal...*
 
-### The Challenge
+Articulate the core issue, whether a user pain point, business constraint, or systemic gap. Frame it as a question: *"How might we support diabetes patients in self-management?"* (Example 6) or *"How might a subscription service retain long-term users?"* (Example 4). Highlight urgency with metrics—e.g., *"75% user drop-out during registration"* (Example 1).  
 
-As climate change awareness grows, individuals often feel overwhelmed and unsure of how to contribute to meaningful change. EcoTrack aimed to address the challenge of making climate action accessible and engaging for everyday people, transforming awareness into action.
+## **Action**  
+*Approach and methods...*  
 
--﻿--
+Showcase your process with intentionality. Detail research (interviews, surveys), ideation (workshops, design games), and tools (Figma, Mural). Emphasize collaboration (e.g., *"Co-facilitated workshops across Europe"* in Example 10) and adaptability (e.g., remote work in Example 9). Use workflow diagrams or brainstorming snapshots to demonstrate rigor.  
 
-### Your Solution
+## **Results**  
+*Outcomes and solutions...*  
 
-#### Approach
+Quantify success (e.g., *"10% increase in click-through rates"* in Example 8) and visualize deliverables (prototypes, service blueprints). Balance tangible outputs (e.g., *"Two long-term service concepts"* in Example 3) with user-centric benefits (e.g., *"AI-driven sound personalization"* in Example 4).  
 
-* **User-Centric Design**: Conducted extensive user research to understand barriers to engagement in climate action.
-* **Gamification**: Integrated gamified elements to encourage participation and reward users for completing eco-friendly tasks.
-* **Community Features**: Developed community forums and local event notifications to foster collaboration and collective action.
+## **Knowledge**  
+*Impact, learnings, and next steps...* 
 
-
-
-#### Key Features
-
-* **Personalized Action Plans**: Users receive tailored suggestions based on their location and interests.
-* **Impact Tracker**: A feature that allows users to track their carbon footprint and see the impact of their actions.
-* **Local Events Calendar**: Keeps users informed about climate-related events in their area.
-
-
-
-### Results
-
-* **User Engagement**: Over 50,000 downloads within the first six months, with a 40% active user rate.
-* **Community Initiatives**: Users reported organizing 150 local events, resulting in a 30% increase in community-driven climate initiatives.
-* **Positive Feedback**: 85% of users reported feeling more empowered to take action against climate change after using the app.
-
-### Visuals
-
-* **\[Placeholder for App Screenshots]**: Showcase the user interface, highlighting the personalized action plans and impact tracker.
-* **\[Placeholder for User Testimonials]**: Include quotes from users expressing how EcoTrack has inspired them to engage in climate action.
-* **\[Placeholder for Infographic]**: Visual representation of user engagement statistics and community initiatives.
-
-### Client Voice
-
-*"EcoTrack has transformed my understanding of how I can contribute to climate action. The app makes it easy and rewarding to make a difference!"* - Sarah, EcoTrack User
-
-### Call to Action
-
-Ready to make a difference in climate action? Download EcoTrack today and join a community of passionate advocates working toward a sustainable future! By using this structured approach, the case study effectively communicates the impact of EcoTrack, engaging potential clients and users in a clear and compelling manner.
+Reflect on scalability (*"Pilot program expanded to 200 participants"* in Example 11) and lessons (*"Remote collaboration tools were critical"* in Example 12). Highlight how insights informed future work (e.g., *"Developed a concept development framework"* in Example 6). Use quotes from stakeholders or users to add authenticity.  
