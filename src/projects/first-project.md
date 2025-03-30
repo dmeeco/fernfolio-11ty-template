@@ -8,15 +8,31 @@ metaDescription: This is a sample meta description. If one is not present in
   instead.
 tags:
   - Website
-  - User Stories 
+  - User Stories
   - Research
   - UX Enhancements
 ---
+## **Situation**  
+*Context and background*  
 
-### Task
+Begin by anchoring the project in its broader landscape. Clarify the client, industry, and scope, emphasizing why the work mattered. For example, *"A government agency struggling with FOIA request backlogs"* (Example 5) or *"A digital freight service needing to differentiate in a competitive SME market"* (Example 3). Use concise visuals like ecosystem maps or stakeholder diagrams to illustrate complexity.  
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## **Problem**  
+*Challenge or goal...*
 
-### Solution
+Articulate the core issue, whether a user pain point, business constraint, or systemic gap. Frame it as a question: *"How might we support diabetes patients in self-management?"* (Example 6) or *"How might a subscription service retain long-term users?"* (Example 4). Highlight urgency with metrics—e.g., *"75% user drop-out during registration"* (Example 1).  
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## **Action**  
+*Approach and methods...*  
+
+Showcase your process with intentionality. Detail research (interviews, surveys), ideation (workshops, design games), and tools (Figma, Mural). Emphasize collaboration (e.g., *"Co-facilitated workshops across Europe"* in Example 10) and adaptability (e.g., remote work in Example 9). Use workflow diagrams or brainstorming snapshots to demonstrate rigor.  
+
+## **Results**  
+*Outcomes and solutions...*  
+
+Quantify success (e.g., *"10% increase in click-through rates"* in Example 8) and visualize deliverables (prototypes, service blueprints). Balance tangible outputs (e.g., *"Two long-term service concepts"* in Example 3) with user-centric benefits (e.g., *"AI-driven sound personalization"* in Example 4).  
+
+## **Knowledge**  
+*Impact, learnings, and next steps...* 
+
+Reflect on scalability (*"Pilot program expanded to 200 participants"* in Example 11) and lessons (*"Remote collaboration tools were critical"* in Example 12). Highlight how insights informed future work (e.g., *"Developed a concept development framework"* in Example 6). Use quotes from stakeholders or users to add authenticity.  
