@@ -1,5 +1,5 @@
 ---
-title: Accelerating Ethical Alternatives Shopping Experience
+title: Reducing friction in ethical choices
 emoji: ▪️
 date: 2024-07-22T13:35:00.000Z
 summary: API to translate cat speech to english
@@ -12,7 +12,7 @@ tags:
   - Research
   - UX Enhancements
 ---
-
+*Note: Details are generalized to comply with NDA obligations.*
 
 ![Ethical alternatives to everything - Goodfind](/src/assets/img/ethical-alternatives-to-everything-goodfind.jpg "Ethical alternatives to everything - Goodfind")
 
@@ -20,28 +20,43 @@ tags:
 
 *Context and background*  
 
-Begin by anchoring the project in its broader landscape. Clarify the client, industry, and scope, emphasizing why the work mattered. For example, *"A government agency struggling with FOIA request backlogs"* (Example 5) or *"A digital freight service needing to differentiate in a competitive SME market"* (Example 3). Use concise visuals like ecosystem maps or stakeholder diagrams to illustrate complexity.  
+Goodfind, an ethical shopping platform, sought to redesign its website to enhance user experience and secure funding. As the sole designer, I collaborated with the founder to translate complex sustainability requirements into a functional, minimalist interface. The project focused on connecting users with ethical brands while balancing investor needs and technical constraints.
 
 ## **Problem**
 
 *Challenge or goal...*
 
-Articulate the core issue, whether a user pain point, business constraint, or systemic gap. Frame it as a question: *"How might we support diabetes patients in self-management?"* (Example 6) or *"How might a subscription service retain long-term users?"* (Example 4). Highlight urgency with metrics—e.g., *"75% user drop-out during registration"* (Example 1).  
+The existing platform lacked clarity in showcasing brand sustainability credentials and struggled with usability. Key challenges included integrating real-time product data, simplifying navigation for 23k+ users, and designing a scalable architecture under tight timelines. Stakeholders emphasized aligning the redesign with SDG-driven values without compromising aesthetic simplicity.
 
 ## **Action**
 
 *Approach and methods...*  
 
-Showcase your process with intentionality. Detail research (interviews, surveys), ideation (workshops, design games), and tools (Figma, Mural). Emphasize collaboration (e.g., *"Co-facilitated workshops across Europe"* in Example 10) and adaptability (e.g., remote work in Example 9). Use workflow diagrams or brainstorming snapshots to demonstrate rigor.  
+* **User Story Implementation**:
+
+  * **Data Integration**: Addressed the product manager’s need for real-time pricing and certification updates by designing automated API calls to partner platforms (e.g., Shopify, Trustpilot).
+  * **Referral System**: Embedded dynamic referral codes into product links, aligning with the user story: *“As a product manager, I need commission tracking.”*
+  * **Sustainability Filters**: Prioritized user stories for filtering by certifications (e.g., Fair Trade, B Corp) and sorting by price, simplifying ethical decision-making.
+  * **Partner Onboarding**: Streamlined brand/retailer registration workflows to eliminate technical barriers, addressing the story: *“As a partner, I want to join without a tech team.”*
+* **Design Validation**:\
+  Conducted A/B testing on search layouts (inspiration: Pricerunner) to optimize usability for the story: *“As a user, I want to save favorites and track history.”*
+
+![](/src/assets/img/screenshot-2025-04-20-at-14.22.36.png)
 
 ## **Results**
 
 *Outcomes and solutions...*  
 
-Quantify success (e.g., *"10% increase in click-through rates"* in Example 8) and visualize deliverables (prototypes, service blueprints). Balance tangible outputs (e.g., *"Two long-term service concepts"* in Example 3) with user-centric benefits (e.g., *"AI-driven sound personalization"* in Example 4).  
+* Delivered a responsive prototype with streamlined search, dynamic product pages, and referral code integration.
+* Enabled founder to secure investor funding through pitch-ready visuals. 
+* Improved user engagement via simplified navigation.
 
 ## **Knowledge**
 
 *Impact, learnings, and next steps...* 
 
-Reflect on scalability (*"Pilot program expanded to 200 participants"* in Example 11) and lessons (*"Remote collaboration tools were critical"* in Example 12). Highlight how insights informed future work (e.g., *"Developed a concept development framework"* in Example 6). Use quotes from stakeholders or users to add authenticity.
+* **Insight**: Balancing stakeholder priorities (investors vs. users) required iterative alignment of business goals with UX principles.
+* **Scalability**: Modular design allowed future integration of user testing and membership features.
+* **Impact**: Reinforced the value of minimalist aesthetics in conveying trust and sustainability.
+
+*"DK’s strategic approach transformed our platform’s clarity without diluting its mission."* – Founder Feedback
