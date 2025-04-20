@@ -51,6 +51,8 @@ The existing platform lacked clarity in showcasing brand sustainability credenti
 * Enabled founder to secure investor funding through pitch-ready visuals. 
 * Improved user engagement via simplified navigation.
 
+![](/src/assets/img/screenshot-2025-04-20-at-14.34.55.png)
+
 ## **Knowledge**
 
 *Impact, learnings, and next steps...* 
