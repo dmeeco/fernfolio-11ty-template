@@ -14,13 +14,10 @@ tags:
 ---
 *This case study is based on a project covered by a non-disclosure agreement (NDA). Specific data and details have been generalized to protect confidential information. For more information, please reach out.*
 
-**Challenge:** 
-*Building a User-Centric Platform*\
+**Challenge:** *Building a User-Centric Platform*  
 Earthpact's founder envisioned a platform connecting individuals and organizations with sustainable solutions. The initial database of 2400+ solutions lacked user accounts and matchmaking, hindering effective engagement. The challenge was to transform this into a dynamic, user-friendly platform that fostered collaboration and impact.
 
-**Solution:**\
-*Strategic Redesign and No-Code Innovation*  
-
+**Solution:** *Strategic Redesign and No-Code Innovation*  
 I collaborated with the founder to strategize, build a team, and secure funding. We conducted user research, gathered feedback, and refined the branding. Leveraging no-code tools like Softr, Airtable, and Zapier, we developed key features: user sign-ups, wishlists, matchmaking automation, and user/business profiles.
 
 **Execution:** *Rapid MVP Development and Beta Launch*\
