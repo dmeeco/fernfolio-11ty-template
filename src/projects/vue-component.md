@@ -12,7 +12,8 @@ tags:
   - Strategy
   - Branding
 ---
-*This case study is based on a project covered by a non-disclosure agreement (NDA). Specific data and details have been generalized to protect confidential information. For more information, please reach out.*
+*The project is covered by a non-disclosure agreement (NDA). Therefore, I am not allowed to share any data.
+If you're interested in learning more, please reach out.*
 
 **Challenge:** *Building a User-Centric Platform*  
 Earthpact's founder envisioned a platform connecting individuals and organizations with sustainable solutions. The initial database of 2400+ solutions lacked user accounts and matchmaking, hindering effective engagement. The challenge was to transform this into a dynamic, user-friendly platform that fostered collaboration and impact.
