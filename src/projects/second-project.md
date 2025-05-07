@@ -12,7 +12,7 @@ tags:
   - Strategy
   - Research
 ---
-*Note: To protect proprietary information and adhere to non-disclosure agreements, this project omits specific confidential data. All information shared is presented to illustrate my design process, strategic thinking, and impact.*
+*This project is covered by a NDA (non-disclosure agreement), therefore specific data and proprietary details cannot be shared. Please contact me for further discussion.*
 
 **Catalyzing Climate Action**
 
