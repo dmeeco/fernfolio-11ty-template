@@ -12,7 +12,7 @@ tags:
   - Research
   - UX Enhancements
 ---
-*Note: Details are generalized to comply with NDA obligations.*
+*This project is governed by a Non-Disclosure Agreement (NDA). Consequently, specific design details and proprietary data cannot be disclosed publicly. Please reach out for more information.*
 
 ![Ethical alternatives to everything - Goodfind](/src/assets/img/ethical-alternatives-to-everything-goodfind.jpg "Ethical alternatives to everything - Goodfind")
 
