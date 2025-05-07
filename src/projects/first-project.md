@@ -16,19 +16,19 @@ tags:
 
 ![Ethical alternatives to everything - Goodfind](/src/assets/img/ethical-alternatives-to-everything-goodfind.jpg "Ethical alternatives to everything - Goodfind")
 
-## **Situation**
+#### **Situation**
 
 *Context and background*  
 
 Goodfind, an ethical shopping platform, sought to redesign its website to enhance user experience and secure funding. As the sole designer, I collaborated with the founder to translate complex sustainability requirements into a functional, minimalist interface. The project focused on connecting users with ethical brands while balancing investor needs and technical constraints.
 
-## **Problem**
+#### **Problem**
 
 *Challenge or goal...*
 
 The existing platform lacked clarity in showcasing brand sustainability credentials and struggled with usability. Key challenges included integrating real-time product data, simplifying navigation for 23k+ users, and designing a scalable architecture under tight timelines. Stakeholders emphasized aligning the redesign with SDG-driven values without compromising aesthetic simplicity.
 
-## **Action**
+##### **Action**
 
 *Approach and methods...*  
 
@@ -43,7 +43,7 @@ The existing platform lacked clarity in showcasing brand sustainability credenti
 
 ![](/src/assets/img/screenshot-2025-04-20-at-14.22.36.png)
 
-## **Results**
+#### **Results**
 
 *Outcomes and solutions...*  
 
@@ -53,7 +53,7 @@ The existing platform lacked clarity in showcasing brand sustainability credenti
 
 ![](/src/assets/img/screenshot-2025-04-20-at-14.34.55.png)
 
-## **Knowledge**
+#### **Knowledge**
 
 *Impact, learnings, and next steps...* 
 
