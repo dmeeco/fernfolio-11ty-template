@@ -1,8 +1,8 @@
 ---
-title: Making Climate Action and Advocacy a Habit
+title: Designing for behavioural change at planet possible
 emoji: ▪️
 date: 2024-07-23T01:45:00.000Z
-summary: This is an NPM package I made
+summary: Scaling Impact at Planet Possible
 metaDescription: This is a sample meta description. If one is not present in
   your page/project's front matter, the default metadata.desciption will be used
   instead.
@@ -12,36 +12,32 @@ tags:
   - Strategy
   - Research
 ---
+*Note: To protect proprietary information and adhere to non-disclosure agreements, this project omits specific confidential data. All information shared is presented to illustrate my design process, strategic thinking, and impact.*
 
+**Catalyzing Climate Action**
 
-![](/src/assets/img/planet-possible-in-female-hand-mockup.jpg)
+Planet Possible aimed to transform complex climate science into actionable individual steps. My role as Senior Product Designer was to spearhead the redesign and enhancement of the platform, driving user engagement and measurable environmental impact from its nascent stages through to strategic acquisition.
 
-### **Situation**
+**Strategic Onboarding and Foundational Discovery**
 
-*Context and background*  
+Joining Planet Possible, I initiated intensive collaboration with the founder to redefine the product roadmap. This involved meticulous gathering of product requirements and conducting 1-1 discovery sessions with key stakeholders, including university staff and the Count-on-Us methodology team, to align vision and strategy.
 
-Begin by anchoring the project in its broader landscape. Clarify the client, industry, and scope, emphasizing why the work mattered. For example, *"A government agency struggling with FOIA request backlogs"* (Example 5) or *"A digital freight service needing to differentiate in a competitive SME market"* (Example 3). Use concise visuals like ecosystem maps or stakeholder diagrams to illustrate complexity.  
+**Integrating Robust Frameworks for Impact**
 
-### **Problem**
+A core challenge was translating established environmental frameworks into a compelling digital experience. I leveraged the Drawdown Framework and adapted the Count-on-Us methodology, devising novel techniques to integrate its principles effectively within the mobile application, ensuring actions were both meaningful and accessible.
 
-*Challenge or goal...*
+**Leading MVP Design to Rapid User Adoption**
 
-Articulate the core issue, whether a user pain point, business constraint, or systemic gap. Frame it as a question: *"How might we support diabetes patients in self-management?"* (Example 6) or *"How might a subscription service retain long-term users?"* (Example 4). Highlight urgency with metrics—e.g., *"75% user drop-out during registration"* (Example 1).  
+I led the end-to-end design of the Minimum Viable Product, encompassing over 300 distinct actions. This foundational work was instrumental in achieving significant early traction, attracting 4,200 users who completed 8,100 actions within the first six months post-launch, validating the core concept.
 
-### **Action**
+**Enhancing Engagement through Behavioural Science**
 
-*Approach and methods...*  
+To deepen user commitment, I applied behavioural science principles to introduce sophisticated engagement features. This included the strategic implementation of gamification elements such as activity tracking and leadership boards, directly addressing user motivation and retention.
 
-Showcase your process with intentionality. Detail research (interviews, surveys), ideation (workshops, design games), and tools (Figma, Mural). Emphasize collaboration (e.g., *"Co-facilitated workshops across Europe"* in Example 10) and adaptability (e.g., remote work in Example 9). Use workflow diagrams or brainstorming snapshots to demonstrate rigor.  
+**Measurable Uplift in Key Performance Indicators**
 
-### **Results**
+The integration of gamification yielded tangible results, significantly boosting Daily Active Users (DAU) and elevating 3-month retention rates. Furthermore, the development of community tracking features drove substantial Monthly Active User (MAU) growth and accelerated feature adoption within an 8-week period.
 
-*Outcomes and solutions...*  
+**Navigating Growth and Strategic Acquisition**
 
-Quantify success (e.g., *"10% increase in click-through rates"* in Example 8) and visualize deliverables (prototypes, service blueprints). Balance tangible outputs (e.g., *"Two long-term service concepts"* in Example 3) with user-centric benefits (e.g., *"AI-driven sound personalization"* in Example 4).  
-
-### **Knowledge**
-
-*Impact, learnings, and next steps...* 
-
-Reflect on scalability (*"Pilot program expanded to 200 participants"* in Example 11) and lessons (*"Remote collaboration tools were critical"* in Example 12). Highlight how insights informed future work (e.g., *"Developed a concept development framework"* in Example 6). Use quotes from stakeholders or users to add authenticity.
+Our success led to selection for a VC-funded Behaviour Challenge cohort, offering a platform to pitch for scaling investment. Concurrently, an independent opportunity led to the successful acquisition of Planet Possible by RipplEffect, where I supported the pivot by contributing to brand design changes and geo-tagging feature integration.
