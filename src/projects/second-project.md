@@ -14,6 +14,8 @@ tags:
 ---
 *This project is covered by a NDA (non-disclosure agreement), therefore specific data and proprietary details cannot be shared. Please contact me for further discussion.*
 
+![](/src/assets/img/free-outdoor-girl-watching-planet-possible-billboard.jpg)
+
 **Catalyzing Climate Action**
 
 Planet Possible aimed to transform complex climate science into actionable individual steps. My role as Senior Product Designer was to spearhead the redesign and enhancement of the platform, driving user engagement and measurable environmental impact from its nascent stages through to strategic acquisition.
