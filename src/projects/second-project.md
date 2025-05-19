@@ -34,7 +34,7 @@ To deepen user commitment, I applied behavioural science principles to introduce
 **Measurable Uplift in Key Performance Indicators**\
 The integration of gamification yielded tangible results, significantly boosting Daily Active Users (DAU) and elevating 3-month retention rates. Furthermore, the development of community tracking features drove substantial Monthly Active User (MAU) growth and accelerated feature adoption within an 8-week period.
 
-![](/src/assets/img/planet-possible-app-screens.jpg)
+![](/src/assets/img/planet-possible-m-app-screens.jpg)
 
 **Navigating Growth and Strategic Acquisition**\
 Our success led to selection for a VC-funded Behaviour Challenge cohort, offering a platform to pitch for scaling investment. Concurrently, an independent opportunity led to the successful acquisition of Planet Possible by RipplEffect, where I supported the pivot by contributing to brand design changes and geo-tagging feature integration.
