@@ -33,6 +33,8 @@ I led the end-to-end design of the Minimum Viable Product, encompassing over 300
 **Enhancing Engagement through Behavioural Science**\
 To deepen user commitment, I applied behavioural science principles to introduce sophisticated engagement features. This included the strategic implementation of gamification elements such as activity tracking and leadership boards, directly addressing user motivation and retention.
 
+![](/src/assets/img/planet-possible-behavioural-design-activities.jpg)
+
 **Measurable Uplift in Key Performance Indicators**\
 The integration of gamification yielded tangible results, significantly boosting Daily Active Users (DAU) and elevating 3-month retention rates. Furthermore, the development of community tracking features drove substantial Monthly Active User (MAU) growth and accelerated feature adoption within an 8-week period.
 
