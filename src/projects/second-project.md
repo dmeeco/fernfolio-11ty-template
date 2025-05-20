@@ -28,6 +28,8 @@ A core challenge was translating established environmental frameworks into a com
 **Leading MVP Design to Rapid User Adoption**\
 I led the end-to-end design of the Minimum Viable Product, encompassing over 300 distinct actions. This foundational work was instrumental in achieving significant early traction, attracting 4,200 users who completed 8,100 actions within the first six months post-launch, validating the core concept.
 
+![](/src/assets/img/planet-possible-design-activities.jpg)
+
 **Enhancing Engagement through Behavioural Science**\
 To deepen user commitment, I applied behavioural science principles to introduce sophisticated engagement features. This included the strategic implementation of gamification elements such as activity tracking and leadership boards, directly addressing user motivation and retention.
 
