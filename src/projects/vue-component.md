@@ -28,6 +28,7 @@ I collaborated with the founder to strategize, build a team, and secure funding.
 Within six weeks, we launched an MVP, followed by a beta launch in ten weeks. The response was remarkable, with over 400 sign-ups in the first two weeks. We focused on freemium models and free credits to minimize overhead, planning for premium upgrades as we scaled.
 
 ![](/src/assets/img/earthpakt-project-saved-details.jpg)
+
 ![](/src/assets/img/earthpakt-home-section-features.jpg)
 
 **Enhanced User Experience and Engagement**\
