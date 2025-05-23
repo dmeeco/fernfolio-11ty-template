@@ -1,7 +1,7 @@
 ---
 title: Re-building Europe`s Agri and Food Systems
 emoji: ❂
-date: 2024-07-23T09:19:31.092Z
+date: 2025-05-23T05:33:53.377Z
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu
   pulvinar sapien. Vivamus molestie imperdiet ligula, id dictum erat. Duis
   sapien laoreet.
