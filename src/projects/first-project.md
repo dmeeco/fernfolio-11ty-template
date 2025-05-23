@@ -1,5 +1,5 @@
 ---
-title: Reducing friction in ethical choices
+title: Simplifying conscious consumer journeys
 emoji: "❂ "
 date: 2024-07-22T13:35:00.000Z
 summary: API to translate cat speech to english
