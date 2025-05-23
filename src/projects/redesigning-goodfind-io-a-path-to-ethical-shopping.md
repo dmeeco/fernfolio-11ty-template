@@ -1,5 +1,5 @@
 ---
-title: "Redesigning Goodfind: A Path to Ethical Shopping"
+title: Simplifying conscious consumer journeys
 emoji: ❂
 date: 2025-05-21T08:24:17.384Z
 summary: This case study outlines the redesign of Goodfind.io, a platform
