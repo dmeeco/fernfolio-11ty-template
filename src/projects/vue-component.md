@@ -1,7 +1,7 @@
 ---
 title: Empowering a world of green solutions
 emoji: ❂
-date: 2024-07-22T13:55:00.000Z
+date: 2025-05-20T05:36:26.982Z
 summary: "Earthpact: Catalyzing Sustainability Through AI-Powered Matchmaking"
 metaDescription: This is a sample meta description. If one is not present in
   your page/project's front matter, the default metadata.desciption will be used
