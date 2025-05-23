@@ -1,6 +1,6 @@
 ---
 title: Building a user-centric platform for sustainable solutions
-emoji: ▪️
+emoji: ❂
 date: 2024-07-22T13:55:00.000Z
 summary: "Earthpact: Catalyzing Sustainability Through AI-Powered Matchmaking"
 metaDescription: This is a sample meta description. If one is not present in
