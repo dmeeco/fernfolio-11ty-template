@@ -1,6 +1,6 @@
 ---
 title: Reducing friction in ethical choices
-emoji: ▪️
+emoji: "❂ "
 date: 2024-07-22T13:35:00.000Z
 summary: API to translate cat speech to english
 metaDescription: This is a sample meta description. If one is not present in
