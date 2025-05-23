@@ -29,8 +29,8 @@ User journey mapping was essential to visualize the customer experience. By crea
 
 ![](/src/assets/img/screenshot-2025-04-20-at-14.22.36.png)
 
-**Wireframing and A/B Testing**\
-The design process included wireframing to establish layout and functionality. Quick A/B testing was employed to gather feedback on design iterations, ensuring that the final product met user needs and expectations while aligning with the brand's values. 
+**Prototyping and A/B Testing**\
+The design process included creating prototype to establish layout and functionality. Quick A/B testing was employed to gather feedback on design iterations, ensuring that the final product met user needs and expectations while aligning with the brand's values. 
 
 ![](/src/assets/img/screenshot-2025-04-20-at-14.34.55.png)
 
