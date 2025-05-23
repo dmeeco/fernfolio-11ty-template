@@ -1,6 +1,6 @@
 ---
 title: Designing for behavioural change at planet possible
-emoji: ▪️
+emoji: ❂
 date: 2024-07-23T01:45:00.000Z
 summary: Scaling Impact at Planet Possible
 metaDescription: This is a sample meta description. If one is not present in
