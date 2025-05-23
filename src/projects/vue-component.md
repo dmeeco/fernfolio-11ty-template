@@ -1,5 +1,5 @@
 ---
-title: Building a user-centric platform for sustainable solutions
+title: Igniting sustainable partnerships
 emoji: ❂
 date: 2024-07-22T13:55:00.000Z
 summary: "Earthpact: Catalyzing Sustainability Through AI-Powered Matchmaking"
