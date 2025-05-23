@@ -1,5 +1,5 @@
 ---
-title: "Redesigning Goodfind.io: A Path to Ethical Shopping"
+title: "Redesigning Goodfind: A Path to Ethical Shopping"
 emoji: ❂
 date: 2025-05-21T08:24:17.384Z
 summary: This case study outlines the redesign of Goodfind.io, a platform
@@ -16,13 +16,13 @@ tags:
 
 ![](/src/assets/img/ethical-alternatives-to-everything-goodfind.jpg)
 
-This case study outlines the redesign of Goodfind.io, a platform connecting consumers with ethical brands. The goal was to enhance user experience and facilitate more responsible shopping habits. 
+This case study outlines the redesign of Goodfind, a platform connecting consumers with ethical brands. The goal was to enhance user experience and facilitate more responsible shopping habits. 
 
 **Understanding the Client's Vision**\
-Through initial discussions with the founder, it became clear that Goodfind.io aims to encourage consumers to explore ethical alternatives to mainstream shopping platforms. The founder provided insights into the brand's mission and the need for a user-friendly interface that promotes sustainable shopping.
+Through initial discussions with the founder, it became clear that Goodfind aims to encourage consumers to explore ethical alternatives to mainstream shopping platforms. The founder provided insights into the brand's mission and the need for a user-friendly interface that promotes sustainable shopping.
 
 **Conducting Competitive Analysis**\
-A thorough competitive analysis was conducted to identify industry standards and best practices. This involved examining similar platforms to understand their strengths and weaknesses, which informed the design strategy and feature prioritization for Goodfind.io. 
+A thorough competitive analysis was conducted to identify industry standards and best practices. This involved examining similar platforms to understand their strengths and weaknesses, which informed the design strategy and feature prioritization for Goodfind. 
 
 **Mapping User Journeys and Stories**\
 User journey mapping was essential to visualize the customer experience. By creating user stories, we identified key functionalities needed to enhance user engagement, such as easy account creation, product filtering by sustainability credentials, and seamless integration with partner brands. 
