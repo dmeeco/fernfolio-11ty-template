@@ -1,5 +1,5 @@
 ---
-title: Designing for behavioural change at planet possible
+title: Shaping greener habits through design
 emoji: ❂
 date: 2024-07-23T01:45:00.000Z
 summary: Scaling Impact at Planet Possible
