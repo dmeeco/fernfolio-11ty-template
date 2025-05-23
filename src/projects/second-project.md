@@ -1,7 +1,7 @@
 ---
 title: Shaping greener habits through design
 emoji: ❂
-date: 2024-07-23T01:45:00.000Z
+date: 2024-07-22T01:45:00.000Z
 summary: Scaling Impact at Planet Possible
 metaDescription: This is a sample meta description. If one is not present in
   your page/project's front matter, the default metadata.desciption will be used
