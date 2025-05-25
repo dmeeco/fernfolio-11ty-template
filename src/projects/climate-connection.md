@@ -12,7 +12,7 @@ tags:
   - Event Branding
   - Service Design
 ---
-*Note**:** This project presents a completed brand identity project. While the client did not implement the final deliverables, this foundational experience, informed by various inspirations, showcases my capabilities. Inquiries for future collaborations are welcome.*
+Note**:** This project presents a completed brand identity project. While the client did not implement the final deliverables, this foundational experience, informed by various inspirations, showcases my capabilities. Inquiries for future collaborations are welcome.
 
 - - -
 
