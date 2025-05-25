@@ -12,11 +12,11 @@ tags:
   - Event Branding
   - Service Design
 ---
-*Note: This document contains proprietary information. Distribution or reproduction without explicit consent is prohibited.*
+**Disclaimer:** This project presents a completed brand identity project. While the client did not implement the final deliverables, this foundational experience, informed by various inspirations, showcases the my capabilities. Inquiries for future collaborations are welcome.
 
 - - -
 
-**Disclaimer:** This case study presents a completed brand identity project. While the client did not implement the final deliverables, this foundational experience, informed by various inspirations, showcases the designer's capabilities. Inquiries for future collaborations are welcome.
+*Note: This document contains proprietary information. Distribution or reproduction without explicit consent is prohibited.*
 
 - - -
 
