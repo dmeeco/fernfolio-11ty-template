@@ -1,6 +1,6 @@
 ---
 title: Climate events company brand transformation
-emoji: .
+emoji: ❂
 date: 2025-05-24T16:43:56.627Z
 summary: Explore the strategic rebranding of a London events company, fostering
   a vibrant climate community. This case study details the process of crafting a
