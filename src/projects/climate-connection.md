@@ -1,21 +1,63 @@
 ---
-title: climate connection
+title: Climate events company brand transformation
 emoji: .
 date: 2025-05-24T16:43:56.627Z
-summary: If you get stuck or just have a question, feel free to create a [Github
-  issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I
-  will try to point you in the right direction.
+summary: Explore the strategic rebranding of a London events company, fostering
+  a vibrant climate community. This case study details the process of crafting a
+  new identity to unite climate enthusiasts and experts.
 tags:
-  - post
+  - Rebranding
+  - Climate Tech
+  - Brand Strategy
+  - Event Branding
+  - Service Design
 ---
+*Note: This document contains proprietary information. Distribution or reproduction without explicit consent is prohibited.*
+
+- - -
+
+**Disclaimer:** This case study presents a completed brand identity project. While the client did not implement the final deliverables, this foundational experience, informed by various inspirations, showcases the designer's capabilities. Inquiries for future collaborations are welcome.
+
+- - -
+
 ![](/src/assets/img/climate-connection-wall-poster-mockup.jpg)
 
-#### How do I edit content?
+### **Project Overview**
 
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+This case study details the comprehensive rebranding initiative for a London-based events company. The project aimed to establish a robust brand identity, aligning with their mission to unite climate and clean tech professionals.
 
-#### [](https://silly-phoenix-1310f3.netlify.app/posts/theme-customizations/#further-customizations)Further customizations
+- - -
 
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
+### **Defining Identity**
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
+The core challenge involved creating a brand from scratch that resonated with a diverse audience of climate enthusiasts, founders, and policymakers. The goal was to articulate a clear purpose and vision for fostering a connected climate community.
+
+- - -
+
+### **Strategic Development**
+
+Our process began with discovery calls and a detailed questionnaire. This informed the brand strategy, defining purpose, vision, values, voice, and target audience. Keyword analysis and moodboarding guided the initial creative direction.
+
+- - -
+
+### **Creative Execution**
+
+Multiple logo versions were developed, leading to a cohesive visual system. This included sub-brand logos, a defined color palette, typography, and layout compositions. Imagery guidelines ensured consistent visual communication across all touchpoints.
+
+- - -
+
+### **Comprehensive Assets**
+
+Key deliverables encompassed a full suite of brand assets. This included presentation templates, social media graphics, and essential stationery. Print assets were also developed, ensuring brand consistency across all physical and digital platforms.
+
+- - -
+
+### **Digital Integration**
+
+A new website was designed and developed using the Wix no-code platform, fully integrating the new brand guidelines. This digital presence now serves as a central hub for the climate community, reflecting the updated brand identity.
+
+- - -
+
+### **Collaborative Partnership**
+
+Throughout the entire rebranding journey, continuous client engagement was paramount. Regular calls and feedback loops ensured the final brand accurately reflected the company's vision and objectives, fostering a strong partnership.
