@@ -16,7 +16,7 @@ tags:
 
 - - -
 
-![](/src/assets/img/climate-connection-wall-poster-mockup.jpg)
+![](/src/assets/img/cc_billboard_on_concrete_wall_mockup_2.jpg)
 
 #### **Project Overview**
 
@@ -40,11 +40,13 @@ Our process began with discovery calls and a detailed questionnaire. This inform
 
 Multiple logo versions were developed, leading to a cohesive visual system. This included sub-brand logos, a defined color palette, typography, and layout compositions. Imagery guidelines ensured consistent visual communication across all touchpoints.
 
+![](/src/assets/img/climate-connection-brand-design-activities.jpg)
+
 - - -
 
 #### **Comprehensive Assets**
 
-Key deliverables encompassed a full suite of brand assets. This included presentation templates, social media graphics, and essential stationery. Print assets were also developed, ensuring brand consistency across all physical and digital platforms.
+Key deliverables encompassed 60 pages brand guidelines document and a full suite of brand assets. This included presentation templates, social media graphics, and essential stationery. Print assets were also developed, ensuring brand consistency across all physical and digital platforms.
 
 - - -
 
