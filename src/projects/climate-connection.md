@@ -16,7 +16,7 @@ tags:
 
 - - -
 
-![](/src/assets/img/cc_billboard_on_concrete_wall_mockup_2.jpg)
+![](/src/assets/img/cc_industrial-interior-concrete-wall-poster-mockup-psd.jpg)
 
 #### **Project Overview**
 
@@ -48,11 +48,15 @@ Multiple logo versions were developed, leading to a cohesive visual system. This
 
 Key deliverables encompassed 60 pages brand guidelines document and a full suite of brand assets. This included presentation templates, social media graphics, and essential stationery. Print assets were also developed, ensuring brand consistency across all physical and digital platforms.
 
+![](/src/assets/img/climate-collection-physical-and-digital-assets.jpg)
+
 - - -
 
 #### **Digital Integration**
 
 A new website was designed and developed using the Wix no-code platform, fully integrating the new brand guidelines. This digital presence now serves as a central hub for the climate community, reflecting the updated brand identity.
+
+![](/src/assets/img/climate-connection-web-design.jpg)
 
 - - -
 
