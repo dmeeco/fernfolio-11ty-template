@@ -16,7 +16,7 @@ tags:
 
 - - -
 
-![](/src/assets/img/cc_industrial-interior-concrete-wall-poster-mockup-psd.jpg)
+![](/src/assets/img/climate-connection-wall-poster.jpg)
 
 #### **Project Overview**
 
@@ -56,7 +56,7 @@ Key deliverables encompassed 60 pages brand guidelines document and a full suite
 
 A new website was designed and developed using the Wix no-code platform, fully integrating the new brand guidelines. This digital presence now serves as a central hub for the climate community, reflecting the updated brand identity.
 
-![](/src/assets/img/climate-connection-web-design.jpg)
+![](/src/assets/img/screenshot-climate-connection-website.jpeg)
 
 - - -
 
