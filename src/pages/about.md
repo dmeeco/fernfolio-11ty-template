@@ -8,24 +8,12 @@ eleventyNavigation:
   key: About
   order: 2
 ---
+### Welcome! 
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+![Fern in Hand](/src/assets/img/ana-nichita-unsplash-0.5x.jpeg "Fern in Hand")
 
-### Why create this?
+Let's be honest, 'About Me' sections can be a bit dry. So, I'm borrowing a brilliant idea from Alison Wood Brooks (shout-out to the [Mel Robbins](google.com) podcast!) to spice things up. Here's the deal: two insights into my professional world, and two glimpses into what makes me tick personally. Let's dive in!
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+**At work,** my playground is at the intersection of human experience and planetary well-being. As a service design professional, I'm obsessed with making climate tech not just functional, but genuinely delightful and intuitive for everyone.
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
-
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
-
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
-
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+**Personally,** when I'm not busy making green solutions user-friendly, you can usually find me getting wonderfully muddy on a hiking trail or feeling the wind on my face cycling through scenic routes. And yes, I'm probably researching my next sustainable swap or zero-waste hack while I'm at it – my personal life is just as committed to the planet!
