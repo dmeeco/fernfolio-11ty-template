@@ -2,12 +2,16 @@
 title: Empowering a world of green solutions
 emoji: ❂
 date: 2025-05-20T05:36:26.982Z
-summary: "Earthpact: Catalyzing Sustainability Through AI-Powered Matchmaking"
-metaDescription: This is a sample meta description. If one is not present in
-  your page/project's front matter, the default metadata.desciption will be used
-  instead.
+summary: Earthpact transformed a static database into a dynamic platform,
+  connecting users with sustainable solutions. It introduced user accounts,
+  wishlists, and automated matchmaking, significantly boosting engagement and
+  sign-ups.
+metaDescription: Earthpact transformed a static database into a dynamic
+  platform, connecting users with sustainable solutions. It introduced user
+  accounts, wishlists, and automated matchmaking, significantly boosting
+  engagement and sign-ups.
 tags:
-  - Website
+  - Online Portal
   - Research
   - Strategy
   - Branding
