@@ -2,15 +2,16 @@
 title: Simplifying conscious consumer journeys
 emoji: ❂
 date: 2025-05-18T05:36:52.685Z
-summary: This case study outlines the redesign of Goodfind.io, a platform
-  connecting consumers with ethical brands. The goal was to enhance user
-  experience and facilitate more responsible shopping habits.
+summary: Goodfind reimagined the path to ethical shopping, empowering consumers
+  to discover and embrace sustainable brands. By simplifying the conscious
+  consumer journey and enhancing user experience, it fostered responsible
+  habits, accelerating the adoption of ethical alternatives and supporting a
+  more sustainable marketplace
 tags:
-  - service design
-  - product design
-  - user experience
-  - journey mapping
-  - ethical shopping
+  - Website Re-Design
+  - Journey Mapping
+  - Ethical Consumption
+  - Consumer Empowerment
 ---
 *The project is covered by a non-disclosure agreement (NDA). Therefore, I am not allowed to share any data. If you're interested in learning more, please reach out.*
 
