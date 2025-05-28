@@ -2,15 +2,19 @@
 title: Shaping greener habits through design
 emoji: ❂
 date: 2025-05-22T05:35:54.365Z
-summary: Scaling Impact at Planet Possible
-metaDescription: This is a sample meta description. If one is not present in
-  your page/project's front matter, the default metadata.desciption will be used
-  instead.
+summary: A digital platform transformed complex climate science into actionable
+  steps. It integrated environmental frameworks and behavioral science, driving
+  user engagement, measurable impact, and successful acquisition.
+metaDescription: A digital platform transformed complex climate science into
+  actionable steps. It integrated environmental frameworks and behavioral
+  science, driving user engagement, measurable impact, and successful
+  acquisition.
 tags:
-  - Mobile App
+  - Service Design
+  - Behavioral Science
+  - Climate Action
   - Gamification
-  - Strategy
-  - Research
+  - Digital Product
 ---
 *This project is covered by a NDA (non-disclosure agreement), therefore specific data and proprietary details cannot be shared. Please contact me for further discussion.*
 
