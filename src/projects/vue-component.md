@@ -7,16 +7,13 @@ summary: Earthpact transformed a static database into a vibrant platform,
   solutions. By fostering dynamic connections and automating matchmaking, it
   ignited collaboration, significantly boosting engagement and accelerating
   collective impact.
-metaDescription: Earthpact transformed a static database into a vibrant
-  platform, empowering individuals and organizations to connect with sustainable
-  solutions. By fostering dynamic connections and automating matchmaking, it
-  ignited collaboration, significantly boosting engagement and accelerating
-  collective impact.
+metaDescription: ""
 tags:
   - Online Portal
   - Research
   - Strategy
   - Branding
+  - Partnerships for the Goals
 ---
 *The project is covered by a non-disclosure agreement (NDA). Therefore, I am not allowed to share any data. If you're interested in learning more, please reach out.*
 
