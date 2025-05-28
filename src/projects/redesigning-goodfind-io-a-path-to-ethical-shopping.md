@@ -9,7 +9,7 @@ summary: Goodfind reimagined the path to ethical shopping, empowering consumers
   more sustainable marketplace
 tags:
   - Website Re-Design
-  - Journey Mapping
+  - User Story Mapping
   - Ethical Consumption
   - Consumer Empowerment
 ---
