@@ -2,15 +2,16 @@
 title: Climate events company brand transformation
 emoji: ❂
 date: 2025-05-01T16:43:56.627Z
-summary: Explore the strategic rebranding of a London events company, fostering
-  a vibrant climate community. This case study details the process of crafting a
-  new identity to unite climate enthusiasts and experts.
+summary: A climate events company underwent a strategic rebranding to unite
+  climate and clean tech professionals. The project established a robust brand
+  identity, visual system, and digital presence, fostering a connected
+  community.
 tags:
   - Rebranding
-  - Climate Tech
-  - Brand Strategy
-  - Event Branding
-  - Service Design
+  - Brand Identity
+  - Visual Design
+  - Digital Presence
+  - Community Building
 ---
 *Note: This project presents a completed brand identity project. While the client did not implement the final deliverables, this foundational experience, informed by various inspirations, showcases my capabilities. Inquiries for future collaborations are welcome.*
 
