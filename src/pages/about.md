@@ -8,9 +8,9 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-### Welcome! 
+![](/src/assets/img/ana-nichita-unsplash-0.5x.jpeg)
 
-![Fern in Hand](/src/assets/img/ana-nichita-unsplash-0.5x.jpeg "Fern in Hand")
+### Welcome! 
 
 Let's be honest, 'About Me' sections can be a bit dry. So, I'm borrowing a brilliant idea from Alison Wood Brooks (shout-out to the [Mel Robbins](google.com) podcast!) to spice things up. Here's the deal: two insights into my professional world, and two glimpses into what makes me tick personally. Let's dive in!
 
