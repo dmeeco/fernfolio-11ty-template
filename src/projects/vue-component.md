@@ -2,14 +2,16 @@
 title: Empowering a world of green solutions
 emoji: ❂
 date: 2025-05-20T05:36:26.982Z
-summary: Earthpact transformed a static database into a dynamic platform,
-  connecting users with sustainable solutions. It introduced user accounts,
-  wishlists, and automated matchmaking, significantly boosting engagement and
-  sign-ups.
-metaDescription: Earthpact transformed a static database into a dynamic
-  platform, connecting users with sustainable solutions. It introduced user
-  accounts, wishlists, and automated matchmaking, significantly boosting
-  engagement and sign-ups.
+summary: Earthpact transformed a static database into a vibrant platform,
+  empowering individuals and organizations to connect with sustainable
+  solutions. By fostering dynamic connections and automating matchmaking, it
+  ignited collaboration, significantly boosting engagement and accelerating
+  collective impact.
+metaDescription: Earthpact transformed a static database into a vibrant
+  platform, empowering individuals and organizations to connect with sustainable
+  solutions. By fostering dynamic connections and automating matchmaking, it
+  ignited collaboration, significantly boosting engagement and accelerating
+  collective impact.
 tags:
   - Online Portal
   - Research
