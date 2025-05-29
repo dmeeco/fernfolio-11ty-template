@@ -8,7 +8,7 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-![](/src/assets/img/screenshot-2025-05-29-at-15-31-52-tlh1h8lwsornihtb.webp-webp-image-273-×-400-pixels-.png)
+![]()
 
 ### Welcome!
 
