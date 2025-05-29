@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Welcome!
 subtitle: ""
 metaDescription: This page is all about me
 date: 2017-01-01T00:00:00.000Z
@@ -8,8 +8,6 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-### Welcome!
-
 Let's be honest, 'About Me' sections can be a bit dry. So, I'm borrowing a brilliant idea from Alison Wood Brooks (shout-out to the [Mel Robbins](google.com) podcast!) to spice things up. Here's the deal: two insights into my professional world, and two glimpses into what makes me tick personally. Let's dive in!
 
 **At work,** my playground is at the intersection of human experience and planetary well-being. As a service design professional, I'm obsessed with making climate tech not just functional, but genuinely delightful and intuitive for everyone.
