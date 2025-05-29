@@ -8,9 +8,9 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-![](/src/assets/img/ana-nichita-unsplash-0.5x.jpeg)
+![](/src/assets/img/screenshot-2025-05-29-at-15-31-52-tlh1h8lwsornihtb.webp-webp-image-273-×-400-pixels-.png)
 
-### Welcome! 
+### Welcome!
 
 Let's be honest, 'About Me' sections can be a bit dry. So, I'm borrowing a brilliant idea from Alison Wood Brooks (shout-out to the [Mel Robbins](google.com) podcast!) to spice things up. Here's the deal: two insights into my professional world, and two glimpses into what makes me tick personally. Let's dive in!
 
