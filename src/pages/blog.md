@@ -13,4 +13,4 @@ pagination:
   data: collections.post
   size: 20
 ---
-Finding simplicity in this human made complexity will be the most absurd thing that a most intelligent spieces on the earth will ever do to regret!
+Finding simplicity in this human made complexity will be the absurd thing that a most intelligent spieces on the earth will ever do only to regret!
