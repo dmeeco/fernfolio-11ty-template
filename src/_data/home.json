@@ -1,6 +1,6 @@
 {
   "title": "Hi there... DK here!",
-  "image": "/src/assets/img/profile-pic.png",
+  "image": "./src/assets/img/profile-pic.png",
   "image_alt": "Díquá Portrait Edited",
   "body": "Service design professional working on most effective climate solutions. I help mindful individuals and businesses build planet-centric solutions."
 }
