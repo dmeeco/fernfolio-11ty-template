@@ -2,8 +2,7 @@
 title: Empowering European Farmers with Decentralized Technology and Gen-AI
 date: 2025-05-31T06:23:34.838Z
 summary: The European agricultural landscape, rich in tradition and diversity,
-  stands on the cusp of a technological revolution. While large-scale industrial
-  farming has often been the primary beneficiary of agricultural innovation
+  stands on the cusp of a technological revolution.
 tags:
   - Agri-Tech
   - Smart Farming
