@@ -5,10 +5,13 @@ summary: The European agriculture and food systems stand at a critical juncture,
   facing unprecedented challenges while holding immense potential for positive
   transformation.
 tags:
-  - environment
-  - sport
+  - European Agriculture
+  - CAP Reform
+  - Food Systems
+  - Sustainable Farming
+  - Consumerism Impact
 ---
-![](/src/assets/img/small-farmer-using-technology.png)
+![](/src/assets/img/european-agriculture-stark-picture.png)
 
 The European agriculture and food systems stand at a critical juncture, facing unprecedented challenges while holding immense potential for positive transformation. As a enthusiast in this vital sector, I observe daily the profound impact of current policies, economic forces, and technological shortcomings on our food, our farmers, and our planet. It is time for a frank discussion about the pains and gains, and to advocate for a more resilient, equitable, and sustainable future.
 
