@@ -5,7 +5,7 @@ date: 2017-01-01
 permalink: blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber
   }}{% endif %}/index.html
 subtitle: A collection of technical blog posts and random thoughts
-title: A Simpl...
+title: Hi...
 eleventyNavigation:
   key: Blog
   order: 3
@@ -13,4 +13,4 @@ pagination:
   data: collections.post
   size: 20
 ---
-Finding simplicity in this human made complexity will be the absurd thing that a most intelligent spieces on the earth will ever do only to regret!
+> *For humanity, finding simplicity within its self-made complexity is the supreme irony—an act of brilliance ending in regret.*
