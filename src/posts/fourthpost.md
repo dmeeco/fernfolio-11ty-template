@@ -1,6 +1,5 @@
 ---
-title: "Cultivating Tomorrow: Empowering European Farmers with Decentralized
-  Technology and AI"
+title: Empowering European Farmers with Decentralized Technology and AI
 date: 2025-05-31T06:23:34.838Z
 summary: Add an image to your post
 tags:
