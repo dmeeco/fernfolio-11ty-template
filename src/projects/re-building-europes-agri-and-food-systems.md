@@ -19,7 +19,7 @@ Beyond A Digital Ecosystem for Regenerative Agriculture
 
 ### The Vision
 
-I am developing a comprehensive SaaS platform designed to empower Europe's next generation of farmers. This toolkit merges the community-centric model of Community-Supported Agriculture (CSA) with a robust circular economy framework, creating a closed-loop system where waste is transformed into value.
+I am working on a comprehensive SaaS platform designed to empower Europe's next generation of farmers. This toolkit merges the community-centric model of Community-Supported Agriculture (CSA) with a robust circular economy framework, creating a closed-loop system where waste is transformed into value.
 
 The platform will provide an all-in-one solution for farm management, from land selection to sales. To enhance efficiency and trust, it will integrate advanced technologies:
 
@@ -40,7 +40,7 @@ If you want to contribute to the project click the link below and join[ Communit
 
 ###### *A Personal Note:*
 
-*This project is the culmination of a long-held tenacity for sustainable food systems, and after a delay due to unforeseen personal circumstances, I am excited to be back on track and dedicating my focus to its realization.*
+*This project is the culmination of a long-held tenacity for sustainable food systems driven by the fact that none of the exisitngs systems and technologies is not serving the needs of planet or people in righteous way, and after a delay due to unforeseen personal circumstances, I am excited to be back on track and dedicating my focus to its realization.*
 
 *My professional aspiration is to relocate to Europe to contribute my skills to its innovative agricultural sector. As I am not yet based there, this project is currently being built upon extensive secondary research from academic reports, forums, and industry analyses. Upon securing an opportunity in Europe, I am fully committed to conducting the in-depth qualitative and quantitative research essential to co-create a platform that truly serves the needs of its communities. My desire is to not only build a meaningful product but also to immerse myself in the culture, learn the language, and contribute positively to society.*
 
