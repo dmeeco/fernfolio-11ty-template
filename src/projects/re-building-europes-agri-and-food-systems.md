@@ -32,10 +32,14 @@ By applying behavioral design, the platform will nudge both farmers and consumer
 
 The project is in the Concept Validation & Early Engagement phase. I have developed a landing page to introduce the vision and gather initial sign-up requests from farmers, partners, and agri-tech enthusiasts. This crucial first step will help validate the market need and gather a community of early adopters to inform the MVP development.[](google.com)
 
-If you're interested in such project please visit the page below and join the waitilis[](google.com)t.
+If you're interested please visit the page below and join the waitilis[](google.com)t.
 
 [Landing Page](google.com)\
 \
+Want to know where I'm currently on this project, check the roadmap
+
+[Roadmap](google.com)
+
 If you want to contribute to the project click the link below and join 
 
 [Community](google.com) 
