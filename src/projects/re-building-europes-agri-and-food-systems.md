@@ -15,7 +15,7 @@ tags:
 ---
 ### Project: Unknown_360_2025
 
-A Digital Ecosystem for Regenerative Agriculture
+Beyond A Digital Ecosystem for Regenerative Agriculture
 
 ### The Vision
 
