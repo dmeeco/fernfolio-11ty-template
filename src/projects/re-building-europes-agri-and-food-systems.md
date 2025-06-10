@@ -13,9 +13,11 @@ tags:
   - Community
   - Advanced Tech
 ---
-### Project: Unknown_360_2025
+
 
 ![](/src/assets/img/6965606_3502581.jpg)
+
+### Project: Unknown_360_2025
 
 Beyond A Digital Ecosystem for Regenerative Agriculture
 
