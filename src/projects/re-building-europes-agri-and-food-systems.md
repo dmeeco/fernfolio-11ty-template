@@ -46,7 +46,7 @@ If you want to contribute to the project click the link below and join
 
 ###### *A Personal Note:*
 
-*This project is the culmination of a long-held passion for sustainable food systems, and after a delay due to unforeseen personal circumstances, I am excited to be back on track and dedicating my focus to its realization.*
+*This project is the culmination of a long-held tenacity for sustainable food systems, and after a delay due to unforeseen personal circumstances, I am excited to be back on track and dedicating my focus to its realization.*
 
 *My professional aspiration is to relocate to Europe to contribute my skills to its innovative agricultural sector. As I am not yet based there, this project is currently being built upon extensive secondary research from academic reports, forums, and industry analyses. Upon securing an opportunity in Europe, I am fully committed to conducting the in-depth qualitative and quantitative research essential to co-create a platform that truly serves the needs of its communities. My desire is to not only build a meaningful product but also to immerse myself in the culture, learn the language, and contribute positively to society.*
 
