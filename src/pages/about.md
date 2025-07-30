@@ -8,8 +8,12 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-Let's be honest, 'About Me' sections can be a bit dry. So, I'm borrowing a brilliant idea from Alison Wood Brooks (shout-out to the [Mel Robbins](google.com) podcast!) to spice things up. Here's the deal: two insights into my professional world, and two glimpses into what makes me tick personally. Let's dive in!
+**From Symptoms to Systems:** My journey in design began like many others—solving immediate problems, optimizing user flows, making interfaces more intuitive. But working with climate tech startups taught me something crucial: we were constantly treating symptoms while the underlying extractive systems remained unchanged.
 
-**At work,** my playground is at the intersection of human experience and planetary well-being. As a service design professional, I'm obsessed with making climate tech not just functional, but genuinely delightful and intuitive for everyone.
+That realization shifted everything. I stopped asking "How do we make this easier to use?" and started asking "Why does this system exist in its current form, and how might we redesign it entirely?"
 
-**Personally,** when I'm not busy making green solutions user-friendly, you can usually find me getting wonderfully muddy on a hiking trail or feeling the wind on my face cycling through scenic routes. And yes, I'm probably researching my next sustainable swap or zero-waste hack while I'm at it – my personal life is just as committed to the planet!
+**Approach:** I work at the intersection of systems thinking and regenerative design, combining four core disciplines: systems mapping, circular design, behavioral design, and service design. This integrated approach helps organizations move beyond optimizing extractive models to creating entirely new systems that work for all stakeholders—human and non-human alike.
+
+Every project starts with understanding the complete system before designing solutions. This means mapping not just user journeys, but resource flows, stakeholder relationships, and unintended consequences that traditional design approaches often miss.
+
+**Beyond the Work:** When I'm not working, you'll find me hiking or cycling. Being in nature constantly reminds me that the best systems already exist around us—we just need to learn from them.
