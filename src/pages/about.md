@@ -1,6 +1,7 @@
 ---
-title: Welcome!
-subtitle: ""
+title: Hello!
+subtitle: "you can call me \"DK\" and here is a small story on how I got to
+  where I'm now! "
 metaDescription: This page is all about me
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
@@ -16,4 +17,6 @@ That realization shifted everything. I stopped asking "How do we make this easie
 
 Every project starts with understanding the complete system before designing solutions. This means mapping not just user journeys, but resource flows, stakeholder relationships, and unintended consequences that traditional design approaches often miss.
 
-**Beyond the Work:** When I'm not working, you'll find me hiking or cycling. Being in nature constantly reminds me that the best systems already exist around us—we just need to learn from them.
+**Beyond the Work:** When I'm not working, you'll find me hiking or cycling. Being in nature constantly reminds me that the best systems already exist around us—we just need to learn from them.\
+\
+I﻿f you happen to use [Linkedin](https://linkedin.com/in/dkanup) feel free to leave a chat message.
